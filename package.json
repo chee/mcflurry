@@ -1,0 +1,9 @@
+{
+  "name": "mcflurry",
+  "version": "0.0.74",
+  "description": "build composeable functions using objects for keyword arguments",
+  "main": "index.js",
+  "repository": "git@gitlab.com:chee/mcflurry",
+  "author": "chee <chee@snake.dog>",
+  "license": "MIT"
+}
