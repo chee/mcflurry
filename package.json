@@ -4,6 +4,6 @@
   "description": "build composeable functions using objects for keyword arguments",
   "main": "index.js",
   "repository": "git@gitlab.com:chee/mcflurry",
-  "author": "chee <chee@snake.dog>",
+  "author": "chee <yay@chee.party>",
   "license": "MIT"
 }
